@@ -1,0 +1,25 @@
+
+body{
+  background-color: #005500;
+}
+
+a{
+    text-decoration: none;
+    color: black !important;
+}
+
+.photo{
+  height: 30vh;
+}
+
+.heading{
+  font-size: 5rem;
+}
+
+.linkimg{
+  height:8vh;
+}
+
+.jumbotron{
+  border-radius: 50px;
+}
